@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tr1mine
-- 👀 I’m interested in security since 20 years
-- 🌱 I’m currently learning "how dors it works" ;)
+
+- 👀 I’m interested in security since 20 years (pentest, golden model contributor...) on all systems. 
+- 🌱 I’m currently learning "how does it works" ;)
 - 📫 reach me  by mail: tr1mine@laposte.net
 
 <!---
